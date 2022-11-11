@@ -5,7 +5,7 @@ background-color: ;
 
 Estilizar o título principal do seu site
  h1{
-color:white ;
+color:rgba(16, 114, 170, 0.623) ;
 font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
 background:blue ;
 }
