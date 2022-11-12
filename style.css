@@ -7,7 +7,7 @@ background-color:rgba(3, 3, 3, 0.719);
  h1{
 color:rgba(255, 255, 255, 0.692) ;
 font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
-background:rgba(255, 0, 200, 0.267) ;
+background:rgba(255, 0, 50, 50) ;
 }
 
 
@@ -15,5 +15,5 @@ p{
 color:rgba(31, 29, 32, 0.959) ;
 font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
 font-size: 20px;
-background: rgba(225, 0, 255, 0.247);
+background: rgba(25, 0, 255, 0.247);
 }
